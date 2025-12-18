@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    width:60vh;
+    padding: 10px;
+    background-color: rgb(245, 240, 240);
+    margin:auto;
+    box-shadow: 6px 6px rgb(206, 198, 198);
+}
+img{
+    background-color: white;
+    height:10vh;
+}
